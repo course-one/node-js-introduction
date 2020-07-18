@@ -5,7 +5,7 @@
   "main": "calculate.js",
   "dependencies": {
     "express": "^4.17.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {},
   "scripts": {
